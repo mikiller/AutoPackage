@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AutoPackage/AutoPackage.iml" filepath="$PROJECT_DIR$/AutoPackage/AutoPackage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutoPackage.iml" filepath="$PROJECT_DIR$/AutoPackage.iml" />
+    </modules>
+  </component>
+</project>

@@ -16,8 +16,6 @@ import java.lang.reflect.Method;
 import java.util.ArrayList;
 import java.util.List;
 
-import javax.annotation.processing.Filer;
-import javax.print.DocFlavor.STRING;
 
 
 public class PackageUtil {
