@@ -20,5 +20,6 @@
 ### 目录文件
 * app-release.apk是由Android Studio直接生成的demo签名包。
 * app-release.encrypted.apk是经过360加固后的demo未签名母包。
-* autopa3.0.py多渠道自动打包脚本
+* autopa3.0.py 多渠道自动打包脚本
+* ChannelUtil.java 在Android项目中使用该工具类获取渠道号
 * README.md
